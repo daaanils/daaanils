@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daaanils
 - 👀 I’m interested in developing websites and applications
-- 🌱 I’m currently learning java programming
+- 🌱 I’m currently learning java, python, javascript programming
 - 💞️ I’m looking to collaborate on programmer experts or mentor
 - 📫 How to reach me pelasod@gmail.com
 
